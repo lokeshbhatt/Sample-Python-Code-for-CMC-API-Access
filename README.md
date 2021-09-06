@@ -1,4 +1,8 @@
 #
+#
+### ALL CODE IS PROVIDED "AS IS," WITH NO WARRANTIES OR GUARANTEES WHATSOEVER.  IBM EXPRESSLY DISCLAIMS TO THE  FULLEST EXTENT PERMITTED BY LAW ALL EXPRESS, IMPLIED,  STATUTORY AND OTHER WARRANTIES, GUARANTEES, OR  REPRESENTATIONS, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR  PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY AND INTELLECTUAL PROPERTY RIGHTS.  YOU UNDERSTAND AND AGREE THAT  YOU USE THESE MATERIALS, INFORMATION, PRODUCTS, SOFTWARE, PROGRAMS, AND SERVICES, AT YOUR OWN DISCRETION AND  RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGES THAT MAY RESULT, INCLUDING LOSS OF DATA OR DAMAGE TO YOUR COMPUTER SYSTEM.
+#
+#
 # Sample-Python-Code-for-CMC-API-Access
 #
 #
@@ -10,10 +14,10 @@
 #
 #
 # Introduction
-### Clients often run tools, programs & utlities to achieve a consolidated view of enterprise wide inventory, usage, credits etc.
-### Populating central dashboard with latest data points requires programatic access to end-point's, CMC data points, in our case.
-### Shown here is a python based programatic approach to pull inventory, pool usage & credit data points using CMC APIs.
-### Demonstratd here is a menu based approach, but same can be easily modified/extended for command line / scheduled friendly code.
+###    - Clients often run tools, programs & utlities to achieve a consolidated view of enterprise wide inventory, usage, credits etc.
+###    - Populating central dashboard with latest data points requires programatic access to end-point's, CMC data points, in our case.
+###    - Detaield here is a python based programatic approach to pull inventory, pool usage & credit data points using CMC APIs.
+###    - Code demonstrates an interactive menu based approach, but same can be easily modified/extended for equivalent command line / scheduled friendly code.
 example of pulling following data point using CMC APIs,
 # cmc_apis_demo-0.0.py
 #   - Sample code to fetch data using CMC APIs
