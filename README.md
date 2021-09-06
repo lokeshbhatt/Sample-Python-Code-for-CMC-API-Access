@@ -12,6 +12,7 @@ ALL CODE IS PROVIDED "AS IS," WITH NO WARRANTIES OR GUARANTEES WHATSOEVER.  IBM
 - CMC can be accessed from the comfort of most modern browsers for dynamic views of performance, inventory and logging for your complete Power Systems™ enterprise, whether on premises or off premises, simplifies and unifies information in a single location.  
 -  This allows clients to easily make more informed decisions. As private and hybrid cloud deployments grow, enterprises need new insight into these environments.  
 -  Tools that provide consolidated information and analytics can be key enablers to smooth operation of infrastructure.  
+-  Refer [https://www.ibm.com/products/cloud-management-console](https://www.ibm.com/products/cloud-management-console)
 #
 #
 # Use Case  
