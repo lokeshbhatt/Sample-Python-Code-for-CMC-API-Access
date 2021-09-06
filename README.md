@@ -37,7 +37,13 @@ ALL CODE IS PROVIDED "AS IS," WITH NO WARRANTIES OR GUARANTEES WHATSOEVER.  IBM
   -  **NOTE**:   
      1. Above must be saved in file named "parameters.json" in directory where code is kept.    
      2. Refer [parameters.json](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/parameters.json "parameters.json") and raplace hint string <> with your CMC instance specific values.    
- 
+#   
+#   
+# How to run
+1. Ensure you have all the pre-requisites met
+2. Download and save [sample-python-code-for-cmc-api-access.py](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/sample-python-code-for-cmc-api-access.py) at same location where fuly filled [parameters.json](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/parameters.json "parameters.json") is kept.
+3. Execute using "python sample-python-code-for-cmc-api-access.py".
+4. Following the menu.  
 
 #
 #
