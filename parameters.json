@@ -1,0 +1,7 @@
+{
+   "Parameters": {
+      "BaseURL": "https://api-dallas.cmc-staging.com/cmctestdemo-powercloud",
+      "X-CMC-Client-Secret": "a379add8-44dd-45bc-a77a-4bcd34a5b5ca",
+      "X-CMC-Client-Id": "8173ef2c-0f65-4522-8dfe-0134e1061974"
+   }
+}
