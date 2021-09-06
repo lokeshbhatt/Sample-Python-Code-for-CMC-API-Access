@@ -12,7 +12,7 @@ ALL CODE IS PROVIDED "AS IS," WITH NO WARRANTIES OR GUARANTEES WHATSOEVER.  IBM
 - CMC can be accessed from the comfort of most modern browsers for dynamic views of performance, inventory and logging for your complete Power Systems™ enterprise, whether on premises or off premises, simplifies and unifies information in a single location.  
 -  This allows clients to easily make more informed decisions. As private and hybrid cloud deployments grow, enterprises need new insight into these environments.  
 -  Tools that provide consolidated information and analytics can be key enablers to smooth operation of infrastructure.  
--  Refer [https://www.ibm.com/products/cloud-management-console](https://www.ibm.com/products/cloud-management-console)
+-  Refer [https://www.ibm.com/products/cloud-management-console](https://www.ibm.com/products/cloud-management-console) to know more on how one can monitor Power Systems infrastructure with this flexible SaaS solution.
 #
 #
 # Use Case  
@@ -40,12 +40,20 @@ ALL CODE IS PROVIDED "AS IS," WITH NO WARRANTIES OR GUARANTEES WHATSOEVER.  IBM
      2. Refer [SAMPLE parameters.json](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/parameters.json "parameters.json") and raplace hint string <> with your CMC instance specific values.    
 #   
 #   
-# How to run
+# How to run   
+## Executing python code file 
 1. Ensure you have all the pre-requisites met
-2. Download and save [sample-python-code-for-cmc-api-access.py](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/sample-python-code-for-cmc-api-access.py) at same location where fuly filled [SAMPLE parameters.json](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/parameters.json "parameters.json") is kept.
+2. Download and save [sample-python-code-for-cmc-api-access.py](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/sample-python-code-for-cmc-api-access.py) at same location where duly populated [SAMPLE parameters.json](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/parameters.json "parameters.json") is kept.
 3. Execute using "python sample-python-code-for-cmc-api-access.py".
-4. Following the menu.  
-? - YOU TUBE VIDEO LINK
+4. Follow the menu presented
+##    Executing win10 binary (.exe) file
+1. Ensure you are running windows10 operating system
+2. Download and save [sample-python-code-for-cmc-api-access.exe](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/sample-python-code-for-cmc-api-access.exe) binary file at same location where duly pupulated [SAMPLE parameters.json](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/parameters.json "parameters.json") is kept.
+3. Double click to execute.
+4. Follow the menu presented
+#
+#
+# YOU TUBE LINK
 #
 #
 # In case of error
@@ -58,6 +66,7 @@ ALL CODE IS PROVIDED "AS IS," WITH NO WARRANTIES OR GUARANTEES WHATSOEVER.  IBM
 # Downloads
 - [sample-python-code-for-cmc-api-access.py](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/sample-python-code-for-cmc-api-access.py)
 - [SAMPLE parameters.json](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/parameters.json "parameters.json")
+- [sample-python-code-for-cmc-api-access.exe](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/parameters.json "parameters.json")
 #
 #
 # DISCLAIMER
