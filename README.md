@@ -34,8 +34,9 @@ ALL CODE IS PROVIDED "AS IS," WITH NO WARRANTIES OR GUARANTEES WHATSOEVER.  IBM
 - CMC API Controller Access Parameters   
   -  BaseURL:   
   -  X-CMC-Client-Secret:  
-  -  X-CMC-Client-Id:   
-  -  **NOTE**:   
+  -  X-CMC-Client-Id:
+![Alt text](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/Base%20URL%20and%20API%20Key%20Authentication.JPG "CMC page listing for Base URL and API Key Authentication parameters")   
+  **NOTE**:   
      1. Above must be saved in file named "parameters.json" in directory where code is kept.    
      2. Refer [SAMPLE parameters.json](https://github.com/lokeshbhatt/Sample-Python-Code-for-CMC-API-Access/blob/main/parameters.json "parameters.json") and raplace hint string <> with your CMC instance specific values.    
 #   
